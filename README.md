@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to make peoples with distance much intimate using a computer such as remote-controlled robot, wearable device, video chat system.
 - 👯 I’m looking to collaborate on making a media art or some fun hardware.
 <!--- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about developing iOS app, Swift, C++ for embedded computing.
+- 💬 Ask me about developing iOS app (I have 10+ years experience), Swift, C++ for embedded computing.
 - 📫 How to reach me: Send me an email to akira.matsuda@me.com
 - ⚡ Fun fact: A first movie that my parents saw together is (AKIRA)[https://en.wikipedia.org/wiki/Akira_(manga)].
 - See also my (portfolio site)[https://www.0x0c.me] :)
