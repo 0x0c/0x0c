@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**0x0c/0x0c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on (Link-U)[https://www.link-u.co.jp] and also a Ph.D. student at University of Tokyo, Rekimoto Lab.
