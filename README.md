@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at [Link-U](https://www.link-u.co.jp) and also as a Ph.D. student at University of Tokyo, Rekimoto Lab.
+- 🔭 I’m currently working at [Link-U](https://www.link-u.co.jp) (iOS developer, MangaONE project) and also as a Ph.D. student at University of Tokyo, Rekimoto Lab.
 - 🎓 My research topic is Human-Computer Interacation, Remote collaboration technique, telepresence.
 - 🌱 I’m currently learning how to make peoples with distance much intimate using a computer such as remote-controlled robot, wearable device, video chat system.
 - 👯 I’m looking to collaborate on making a media art or some fun hardware.
