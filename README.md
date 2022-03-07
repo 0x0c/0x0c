@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: A first movie that my parents saw together is [AKIRA](https://en.wikipedia.org/wiki/Akira_(manga)).
 - See also my [portfolio site](https://www.0x0c.me) :)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=0x0c&show_icons=true&count_private=true)
-
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=0x0c&layout=compact&show_icons=true&count_private=true)
+[![](https://raw.githubusercontent.com/0x0c/0x0c/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/0x0c/0x0c/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/0x0c/0x0c/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/0x0c/0x0c/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/0x0c/0x0c/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=0x0c)](https://github.com/ryo-ma/github-profile-trophy)
