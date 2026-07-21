@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/0x0c/0x0c/master/profile-summary-card-output/great_gatsby/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/0x0c/0x0c/master/profile-summary-card-output/great_gatsby/4-productive-time.svg)
-```
-
-    
