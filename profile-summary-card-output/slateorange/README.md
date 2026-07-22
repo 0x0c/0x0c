@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/0x0c/0x0c/master/profile-summary-card-output/slateorange/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/0x0c/0x0c/master/profile-summary-card-output/slateorange/4-productive-time.svg)
+```
+
+    
